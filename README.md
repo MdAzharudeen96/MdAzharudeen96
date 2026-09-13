@@ -110,17 +110,30 @@ Contributed to an analytics platform, working across the stack to deliver data-d
 
 ### 📌 Pinned Projects
 
-<p align="left">
-  <a href="https://github.com/MdAzharudeen96/shopify-cart-restriction-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdAzharudeen96&repo=shopify-cart-restriction-app&theme=default" />
-  </a>
-  <a href="https://github.com/MdAzharudeen96/formflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MdAzharudeen96&repo=formflow&theme=default" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-- 🛒 **[Shopify Cart Restriction App](https://github.com/MdAzharudeen96/shopify-cart-restriction-app)** — A Shopify tool to manage and restrict cart behavior for merchants.
-- 📝 **[FormFlow](https://github.com/MdAzharudeen96/formflow)** — A project focused on streamlining form creation and handling.
+**🛒 [Shopify Cart Restriction App](https://github.com/MdAzharudeen96/shopify-cart-restriction-app)**
+
+A Shopify tool to manage and restrict cart behavior for merchants.
+
+<img src="https://img.shields.io/github/languages/top/MdAzharudeen96/shopify-cart-restriction-app?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/MdAzharudeen96/shopify-cart-restriction-app?style=flat-square" />
+
+</td>
+<td width="50%">
+
+**📝 [FormFlow](https://github.com/MdAzharudeen96/formflow)**
+
+A project focused on streamlining form creation and handling.
+
+<img src="https://img.shields.io/github/languages/top/MdAzharudeen96/formflow?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/MdAzharudeen96/formflow?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
