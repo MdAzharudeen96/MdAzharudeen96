@@ -118,8 +118,9 @@ Contributed to an analytics platform, working across the stack to deliver data-d
 
 A Shopify tool to manage and restrict cart behavior for merchants.
 
-<img src="https://img.shields.io/github/languages/top/MdAzharudeen96/shopify-cart-restriction-app?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/MdAzharudeen96/shopify-cart-restriction-app?style=flat-square" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
 </td>
 <td width="50%">
@@ -128,8 +129,10 @@ A Shopify tool to manage and restrict cart behavior for merchants.
 
 A project focused on streamlining form creation and handling.
 
-<img src="https://img.shields.io/github/languages/top/MdAzharudeen96/formflow?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/MdAzharudeen96/formflow?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 </td>
 </tr>
